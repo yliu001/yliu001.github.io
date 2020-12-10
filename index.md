@@ -1,5 +1,10 @@
-<table border="0">
-  <tr>
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title></title></head>
+<body><table border="0">
+  <tbody><tr>
     <td width="75%">
       <h1>Yang Liu</h1>
       <p><b>PhD Candidate, Fudan University</b></p>
@@ -11,15 +16,12 @@
       <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
     </td>
   </tr>
-</table>
-
- ## Latest News
-
- ## Research interests
-
- ## Projects
-
- ## Publications
-
- ## Contact me
-
+</tbody></table>
+<h2>Latest News</h2>
+<h2>Research interests</h2>
+<h2>Projects</h2>
+<h2>Publications</h2>
+<h2>Contact me</h2>
+<p>&nbsp;</p>
+</body>
+</html>
